@@ -1,4 +1,4 @@
-# tea-house-resources
+# Tea-house-resources
 
-### To create Private Repo: [click this link](https://classroom.github.com/a/OqHxmNAV)
+# To create Private Repo: [click this link](https://classroom.github.com/a/OqHxmNAV)
 Private repo link: [https://classroom.github.com/a/OqHxmNAV](https://classroom.github.com/a/OqHxmNAV)
